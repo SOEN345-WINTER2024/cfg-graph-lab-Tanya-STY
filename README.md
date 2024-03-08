@@ -1,3 +1,8 @@
+# LAB7 CFG - Tanya So Tin Yan (40208954)
+## STEP1 - CFG graph for onClick()
+<img width="1038" alt="image" src="https://github.com/SOEN345-WINTER2024/cfg-graph-lab-Tanya-STY/assets/95064474/d2bab680-4619-45c7-b0f9-1d7badd493d7">
+
+
 # Soot Tutorial
 [![Build Status](https://travis-ci.com/noidsirius/SootTutorial.svg?branch=master)](https://travis-ci.com/noidsirius/SootTutorial)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/noidsirius/SootTutorial)
