@@ -52,6 +52,9 @@ TR:
 
 Test Paths:[1,2,18], [1,3,18], [1,4,18], [1,5,18], [1,6,18], [1,7,18], [1,8,18], [1,9,18], [1,10,18], [1,11,18], [1,12,19,30], [1,13,19,30], [1,14,19,30], [1,15,19,30],[1,16,20,21,22,23], [1,17,24,28,29,30], [1,17,25,28,29,30], [1,17,26,28,29,30], [1,17,27,28,29,30]
 
+## STEP5 - EFG 
+<img width="507" alt="image" src="https://github.com/SOEN345-WINTER2024/cfg-graph-lab-Tanya-STY/assets/95064474/f86939ac-282b-4406-9c25-1227b5d27e4d">
+
 
 # Soot Tutorial
 [![Build Status](https://travis-ci.com/noidsirius/SootTutorial.svg?branch=master)](https://travis-ci.com/noidsirius/SootTutorial)
